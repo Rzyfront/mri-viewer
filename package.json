@@ -53,6 +53,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.14.3",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.0",
     "@testing-library/react-hooks": "^7.0.2",

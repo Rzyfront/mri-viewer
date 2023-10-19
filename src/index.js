@@ -27,3 +27,5 @@ ReactDOM.render(
   </Provider>,
   rootElement
 );
+
+export { App };
